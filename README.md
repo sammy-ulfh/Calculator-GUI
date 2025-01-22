@@ -1,7 +1,7 @@
 # Calculator
 
 <p align="center">
-    <img width="500"
+    <img width="200"
     src="images/IMG_001.png"
     alt="Calculator logo image"
     style="float: left; margin-right: 10px;">
@@ -26,7 +26,7 @@ Además del funcionamiento correspondiente a todo lo integrado dentro de la apli
 1. **Calculator** es una calculadora simple, la cual puede resolver cualquier tipo de operación básica. Esta preparada para recibir una múltiple entrada de números, para calcular el resultado final, respetando siempre la jerarquía de los signos.
 
     <p align="center">
-        <img width="500"
+        <img width="300"
         src="images/IMG_002.png"
         alt="Calculator App"
         style="float: left; margin-right: 10px;">
@@ -37,7 +37,7 @@ Además del funcionamiento correspondiente a todo lo integrado dentro de la apli
 - **Resolución de operación**
 
     <p align="center">
-        <img width="500"
+        <img width="300"
         src="images/IMG_003.png"
         alt="Calculator App"
         style="float: left; margin-right: 10px;">
@@ -53,14 +53,14 @@ Además del funcionamiento correspondiente a todo lo integrado dentro de la apli
 - **Error de sintaxis**
 
     <p align="center">
-        <img width="500"
+        <img width="300"
         src="images/IMG_005.png"
         alt="Calculator App"
         style="float: left; margin-right: 10px;">
     </p>
 
     <p align="center">
-        <img width="500"
+        <img width="300"
         src="images/IMG_006.png"
         alt="Calculator App"
         style="float: left; margin-right: 10px;">
@@ -72,6 +72,7 @@ Además del funcionamiento correspondiente a todo lo integrado dentro de la apli
 
     Para estas están asignadas las siguientes teclas:
 
+    |         Tecla          |        Acción          |
     |------------------------|------------------------|
     |         Space          |    Limpiar todo        |
     |         Enter          |    Igual               |
