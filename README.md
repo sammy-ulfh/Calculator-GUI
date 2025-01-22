@@ -44,7 +44,7 @@ Además del funcionamiento correspondiente a todo lo integrado dentro de la apli
     </p>
 
     <p align="center">
-        <img width="500"
+        <img width="300"
         src="images/IMG_004.png"
         alt="Calculator App"
         style="float: left; margin-right: 10px;">
